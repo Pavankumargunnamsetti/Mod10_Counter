@@ -1,4 +1,4 @@
-# Makefile for Memory - Regression Testing - Lab10
+# Makefile for  Regression Testing - Mod10 Counter
 
 # SIMULATOR = Questa for Mentor's Questasim
 # SIMULATOR = VCS for Synopsys's VCS
